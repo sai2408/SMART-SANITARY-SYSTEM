@@ -12,5 +12,9 @@ The project which let the society know the Working function of Government irresp
 <IMG SRC = "https://user-images.githubusercontent.com/57175225/209912533-77f6f107-827b-41c7-96e0-4c5ad00797ed.png">
 <BR>
 <BR></BR>
-<IMG SRC = "https://user-images.githubusercontent.com/57175225/209912533-77f6f107-827b-41c7-96e0-4c5ad00797ed.png">
+<IMG SRC = "https://user-images.githubusercontent.com/57175225/209912593-c80870ad-1c42-4a41-b99d-867421755273.png">
 <BR>
+<BR></BR>
+<IMG SRC = "https://user-images.githubusercontent.com/57175225/209912593-c80870ad-1c42-4a41-b99d-867421755273.png">
+<BR>
+
